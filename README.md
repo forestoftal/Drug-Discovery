@@ -1,13 +1,13 @@
-# 🧪 Drug Discovery Practical — Virtual Screening & AI Analysis
+#  Drug Discovery Practical — Virtual Screening & AI Analysis
 
-This repository contains **general code and workflows** I developed during a practical course on *Drug Discovery*.  
-The focus of the project is on **structure- and machine learning-based virtual screening for novel Alzheimer’s disease targets (e.g., STK33 kinase)**, integrating cheminformatics, docking, and ML pipelines.
+This repository contains general code and workflows I developed during a practical course on Drug Discovery.  
+The focus of the project is on structure- and machine learning-based virtual screening for novel Alzheimer’s disease targets (e.g., STK33 kinase), integrating cheminformatics, docking, and ML pipelines.
 
-> ⚠️ Note: All scripts are **educational and demonstrative**. They illustrate typical workflows used in drug discovery, not production-ready pipelines.
+> Note: All scripts are **educational and demonstrative**. They illustrate typical workflows used in drug discovery, not production-ready pipelines.
 
 ---
 
-## 📚 Workflow Overview
+##  Workflow Overview
 
 - **Data Preparation & Molecular Representation**  
   Handling chemical datasets, preprocessing, and fingerprint generation (e.g., ECFP4).
@@ -29,7 +29,7 @@ The focus of the project is on **structure- and machine learning-based virtual s
 
 ---
 
-## 🧬 Main Project Example
+##  Main Project Example
 
 **Topic:** *Structure- and Machine Learning-Based Virtual Screening for STK33 Inhibition in Alzheimer’s Disease*
 
@@ -42,7 +42,7 @@ The focus of the project is on **structure- and machine learning-based virtual s
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Cheminformatics:** RDKit, PubChem, Enamine libraries  
 - **Docking:** AutoDock Vina, P2Rank, SWISS-MODEL  
@@ -53,6 +53,6 @@ The focus of the project is on **structure- and machine learning-based virtual s
 
 ---
 
-## 📌 Disclaimer
+##  Disclaimer
 This repository is for **educational and research demonstration purposes only**.  
-The codes are simplified to illustrate the **drug discovery workflow** and may not represent production-ready pipelines.
+The codes are simplified to illustrate the **drug discovery workflow** and may not represent production-ready pipelines.     
